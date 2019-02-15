@@ -30,7 +30,7 @@ For optimal student experience, the following hardware requirements is recommend
 * Storage: 40 GB available space
 
 ### Software requirements
-* Python version 3.5 and higher 
+* Python version 3.5 or higher 
 * Ubuntu version 16.04 (Note: Majority of the examples can also be run on the Windows and Mac OS X
 operating systems). 
 * SQLite 3.22.0 or higher (https://www.sqlite.org)
