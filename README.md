@@ -23,6 +23,11 @@ Mastering Python by  **Dr. Gabriele Lanaro, Quan Nguyen, and Sakis Kasampalis**
 *	Use the adapter pattern to make incompatible interfaces compatible
 *	Employ the strategy pattern to dynamically choose an algorithm
 
+## Hardware Requirements
+For optimal student experience, the following hardware requirements is recommended:
+* Processor: Intel Core i5 or equivalent
+* RAM: 4 GB or higher
+* Memory: 32 GB or higher
 
 ### Software requirements
 * Python version 3.5  
@@ -31,4 +36,5 @@ operating systems).
 * SQLite 3.22.0 or higher (https://www.sqlite.org)
 * RabbitMQ3.7.7 (https://www.rabbitmq.com/)
 * Anaconda Distribution
+* pip
 
