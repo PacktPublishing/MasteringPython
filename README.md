@@ -26,11 +26,11 @@ Mastering Python by  **Dr. Gabriele Lanaro, Quan Nguyen, and Sakis Kasampalis**
 ## Hardware Requirements
 For optimal student experience, the following hardware requirements is recommended:
 * Processor: Intel Core i5 or equivalent
-* RAM: 4 GB or higher
-* Memory: 32 GB or higher
+* Memory: 4 GB RAM or higher
+* Storage: 40 GB available space
 
 ### Software requirements
-* Python version 3.5  
+* Python version 3.5 and higher 
 * Ubuntu version 16.04 (Note: Majority of the examples can also be run on the Windows and Mac OS X
 operating systems). 
 * SQLite 3.22.0 or higher (https://www.sqlite.org)
