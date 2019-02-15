@@ -23,7 +23,12 @@ Mastering Python by  **Dr. Gabriele Lanaro, Quan Nguyen, and Sakis Kasampalis**
 *	Use the adapter pattern to make incompatible interfaces compatible
 *	Employ the strategy pattern to dynamically choose an algorithm
 
-### Hardware requirements
-
 
 ### Software requirements
+* Python version 3.5  
+* Ubuntu version 16.04 (Note: Majority of the examples can also be run on the Windows and Mac OS X
+operating systems). 
+* SQLite 3.22.0 or higher (https://www.sqlite.org)
+* RabbitMQ3.7.7 (https://www.rabbitmq.com/)
+* Anaconda Distribution
+
