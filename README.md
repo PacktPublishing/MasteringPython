@@ -29,7 +29,7 @@ For optimal student experience, the following hardware requirements is recommend
 * Memory: 4 GB RAM or higher
 * Storage: 40 GB available space
 
-### Software requirements
+## Software requirements
 * Python version 3.5 or higher 
 * Ubuntu version 16.04 (Note: Majority of the examples can also be run on the Windows and Mac OS X
 operating systems). 
