@@ -1,4 +1,4 @@
-## Mastering Python
+# Mastering Python
 This Learning Path shows you how to leverage the power of both native and third-party Python libraries for building robust and responsive applications. You will learn about profilers and reactive programming, concurrency and parallelism,as well as tools for making your apps quick and efficient. You will discover how to write code for parallel architectures using TensorFlow and Theano, and use a cluster of computers for large-scale computations using technologies such as Dask and PySpark. With the knowledge of how Python design patterns work, you will be able to clone objects, secure interfaces, dynamically choose algorithms, and accomplish much more in high performance computing.
 
 By the end of this Learning Path, you will have the skills and confidence to build engaging models that quickly offer efficient solutions to your problems.
@@ -25,16 +25,15 @@ Mastering Python by  **Dr. Gabriele Lanaro, Quan Nguyen, and Sakis Kasampalis**
 
 ## Hardware Requirements
 For optimal student experience, the following hardware requirements is recommended:
-* Processor: Intel Core i5 or equivalent
-* Memory: 4 GB RAM or higher
-* Storage: 40 GB available space
+* __Processor__: Intel Core i5 or equivalent
+* __Memory__: 4 GB RAM or higher
+* __Storage__: 40 GB available space
 
 ## Software requirements
 * Python version 3.5 or higher 
-* Ubuntu version 16.04 (Note: Majority of the examples can also be run on the Windows and Mac OS X
-operating systems). 
-* SQLite 3.22.0 or higher (https://www.sqlite.org)
-* RabbitMQ3.7.7 (https://www.rabbitmq.com/)
+* Ubuntu version 16.04 (*Note: Majority of the examples can also be run on the Windows and Mac OS X operating systems*). 
+* [SQLite 3.22.0 or higher](https://www.sqlite.org)
+* [RabbitMQ3.7.7](https://www.rabbitmq.com/)
 * Anaconda Distribution
 * pip
 
